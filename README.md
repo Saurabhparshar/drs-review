@@ -3,6 +3,7 @@
 
 ### A revolutionary system developed to make decsion in cricket
 • Developed a Decision Review System which can be used to make decisions in Cricket.
+
 • Converted video into frames that helps us to make decision which we can’t make.
 
 • Implemented real-time video processing pipeline using OpenCV and Python, increasing the accuracy of object
