@@ -3,8 +3,10 @@
 
 ### Developed a Decision Review System which can be used to make decisions in Cricket.
 • Converted video into frames that helps us to make decision which we can’t make.
+
 • Implemented real-time video processing pipeline using OpenCV and Python, increasing the accuracy of object
 detection by 40 percent.
+
 • Developed a Graphic User Interface using Python Tkinter and integrated it with a video processing algorithm
 that improved video quality by 25 percent.
 #### link
