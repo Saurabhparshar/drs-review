@@ -1,4 +1,4 @@
-#  DRS Review System
+#  DRS Review System (DRS)
 <hr />
 
 ### A revolutionary system developed to make decsion in cricket
