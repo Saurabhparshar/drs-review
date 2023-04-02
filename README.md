@@ -1,7 +1,7 @@
 #  DRS Review System (DRS)
 <hr />
 
-### A revolutionary system developed to make decsion in cricket
+### A revolutionary system developed to make decsion in cricket.
 • Developed a Decision Review System((DRS)  which can be used to make decisions in Cricket.
 
 • Converted video into frames that helps us to make decision which we can’t make.
