@@ -13,7 +13,7 @@ detection by 40 percent.
 that improved video quality by 25 percent.
 #### link
 
-### Screenshot of how the project look
+### Screenshot of how the project looks
 ![sponsers](https://user-images.githubusercontent.com/109866847/228556448-10ce7d09-cd12-4297-b3a2-36c1e129673c.jpg)
 
 
